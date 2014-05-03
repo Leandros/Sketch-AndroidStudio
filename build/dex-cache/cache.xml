@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/leandros/Workspace/RSS/app/build/pre-dexed/debug/support-v4-19.0.1-80058aaf81e59c0284328f2ee3849fe6045be2b9.jar"
+        jar="/Users/leandros/android-sdk/extras/android/m2repository/com/android/support/support-v4/19.0.1/support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd"/>
+    <item
+        dex="/Users/leandros/Workspace/RSS/app/build/pre-dexed/debug/classes-1f879bbb09abfb8a36026d78971da78d76887799.jar"
+        jar="/Users/leandros/Workspace/RSS/build/exploded-aar/com.android.support/appcompat-v7/19.0.1/classes.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="f71a6822470c9eb659d4f4a6cb57b780b35f058b"/>
+
+</pre-dex-items>
